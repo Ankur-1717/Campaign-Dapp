@@ -17,7 +17,7 @@ export default () => {
                 </Link>
             </Menu.Menu>
             <Menu.Menu style={{'fontWeight':'600'}}>
-                <Link route='https://github.com/Ankur-1717'>
+                <Link route='https://github.com/Ankur-1717/Campaign-Dapp'>
                     <a className='item'>GITHUB</a>
                 </Link>
             </Menu.Menu>
